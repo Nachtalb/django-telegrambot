@@ -5,6 +5,7 @@ History
 1.1.0 (unreleased)
 ++++++++++++++++++
 * Fix error on startup when using ``MESSAGEQUEUE_ENABLED`` [Nachatlb]
+* Run functions decorated with ``@run_async`` in webhook mode [Nachtalb]
 
 1.0.0 (2017-05-25)
 ++++++++++++++++++
